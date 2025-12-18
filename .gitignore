@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+.env
+.env.*
+build/
+dist/
+*.egg-info/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# Node / frontend
+node_modules/
+*.log
+pnpm-lock.yaml
+package-lock.json
+.parcel-cache/
+.next/
+.turbo/
+dist/
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project data and logs
+logs/
+backend/logs/
+data/**
+!data/**/.gitkeep
