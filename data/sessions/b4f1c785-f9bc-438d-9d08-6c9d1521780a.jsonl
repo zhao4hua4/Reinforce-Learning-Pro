@@ -1,0 +1,12 @@
+{
+  "session_id": "b4f1c785-f9bc-438d-9d08-6c9d1521780a",
+  "started_at": "2025-11-29T15:48:17.520008",
+  "model_name": "qwen3-8b-openvino",
+  "temperature": 0.1,
+  "seed": 42,
+  "stats": {},
+  "answers": []
+}{"card_id":"cogni_psyc_card_4","card_type":"multiple_choice","user_answer":"Interactive layers with top-down influence;Captures lexical competition","is_correct":true,"score":1.0,"timestamp":"2025-11-29T15:48:25.764594","feedback":"Interactive layers with top-down influence; captures lexical competition","evidence_used":null}
+{"card_id":"cogni_psyc_card_3","card_type":"single_choice","user_answer":"Text lacks prosody","is_correct":false,"score":0.16666666666666666,"timestamp":"2025-11-29T15:49:55.002662","feedback":"Speech lacks clear acoustic word boundaries","evidence_used":null}
+{"card_id":"cogni_psyc_card_3","card_type":"single_choice","user_answer":"Text is more ambiguous","is_correct":false,"score":0.0,"timestamp":"2025-11-29T15:50:06.059588","feedback":"Speech lacks clear acoustic word boundaries","evidence_used":null}
+{"card_id":"cogni_psyc_card_3","card_type":"single_choice","user_answer":"Speech lacks clear acoustic word boundaries","is_correct":true,"score":1.0,"timestamp":"2025-11-29T15:50:10.792847","feedback":"Speech lacks clear acoustic word boundaries","evidence_used":null}

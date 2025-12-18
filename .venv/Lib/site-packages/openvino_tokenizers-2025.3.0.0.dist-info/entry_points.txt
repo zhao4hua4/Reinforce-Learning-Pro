@@ -1,0 +1,3 @@
+[console_scripts]
+convert_tokenizer=openvino_tokenizers.cli:convert_hf_tokenizer
+

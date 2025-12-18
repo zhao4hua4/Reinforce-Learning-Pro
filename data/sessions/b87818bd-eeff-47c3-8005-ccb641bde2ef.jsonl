@@ -1,0 +1,9 @@
+{
+  "session_id": "b87818bd-eeff-47c3-8005-ccb641bde2ef",
+  "started_at": "2025-11-30T06:34:41.499662",
+  "model_name": "qwen3-8b-openvino",
+  "temperature": 0.1,
+  "seed": 42,
+  "stats": {},
+  "answers": []
+}{"card_id":"Summarize the main idea in your own words.","card_type":"short_answer","user_answer":"1","is_correct":false,"score":0.0,"timestamp":"2025-11-30T06:37:17.779153","feedback":"The integrative evaluation of Part III synthesises themes from speech perception, reading, comprehension, production, and foundational debates to present language as a multi component cognitive system","evidence_used":null}

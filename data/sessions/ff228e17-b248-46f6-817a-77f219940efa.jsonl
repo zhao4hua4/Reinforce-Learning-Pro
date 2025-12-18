@@ -1,0 +1,9 @@
+{
+  "session_id": "ff228e17-b248-46f6-817a-77f219940efa",
+  "started_at": "2025-11-30T07:02:31.432638",
+  "model_name": "qwen3-8b-openvino",
+  "temperature": 0.1,
+  "seed": 42,
+  "stats": {},
+  "answers": []
+}

@@ -1,0 +1,9 @@
+{
+  "session_id": "0c3ef9db-4d82-4534-a3ff-76a31b4e886e",
+  "started_at": "2025-11-29T15:53:36.729814",
+  "model_name": "qwen3-8b-openvino",
+  "temperature": 0.1,
+  "seed": 42,
+  "stats": {},
+  "answers": []
+}{"card_id":"cogni_psyc_card_5","card_type":"short_answer","user_answer":"a and be","is_correct":false,"score":0.09467455621301775,"timestamp":"2025-11-29T15:53:53.543800","feedback":"Syntax-first selects simplest structure then revises; constraint-based evaluates multiple parses in parallel using syntax, semantics, prosody, and probabilities.","evidence_used":null}

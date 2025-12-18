@@ -1,0 +1,83 @@
+[
+  {
+    "id": "d8952484-6392-4579-9186-024e177dcc0a",
+    "title": "Custom Module",
+    "language": "English",
+    "learning_note": "Australia's world-first social media ban for children has taken effect, with throngs of teenagers waking up to find their accounts have gone dark.\n\nOthers tell BBC they have already snuck past barriers and will continue scrolling and posting freely until they are caught.\n\nThe new law means social media firms - including Meta, TikTok and YouTube - must take \"reasonable steps\" to ensure Australians aged under 16 don't hold accounts on their platforms.\n\nThe ban, eyed with excitement by global leaders and trepidation by tech companies, was justified as necessary to protect children from harmful content and algorithms - though critics have argued blanket prohibition is neither practical nor wise.",
+    "example": "",
+    "prompts": [
+      "What stands out most?",
+      "How would you apply this?"
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "card_type": "short_answer",
+        "question": "Summarize the main idea.",
+        "options": null,
+        "answer": "Australia's world-first social media ban for children has taken effect, with throngs of teenagers waking up to find thei",
+        "hint": "Stay grounded in the source text.",
+        "forceWrong": false
+      }
+    ],
+    "checklist": [
+      "Explain main idea",
+      "Give one example",
+      "Pose real-life question"
+    ]
+  },
+  {
+    "id": "af16be4d-5414-480a-b285-c16f1edcdb8b",
+    "title": "Custom Module",
+    "language": "English",
+    "learning_note": "Australia's world-first social media ban for children has taken effect, with throngs of teenagers waking up to find their accounts have gone dark.\n\nOthers tell BBC they have already snuck past barriers and will continue scrolling and posting freely until they are caught.\n\nThe new law means social media firms - including Meta, TikTok and YouTube - must take \"reasonable steps\" to ensure Australians aged under 16 don't hold accounts on their platforms.\n\nThe ban, eyed with excitement by global leaders and trepidation by tech companies, was justified as necessary to protect children from harmful content and algorithms - though critics have argued blanket prohibition is neither practical nor wise.",
+    "example": "",
+    "prompts": [
+      "What stands out most?",
+      "How would you apply this?"
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "card_type": "short_answer",
+        "question": "Summarize the main idea.",
+        "options": null,
+        "answer": "Australia's world-first social media ban for children has taken effect, with throngs of teenagers waking up to find thei",
+        "hint": "Stay grounded in the source text.",
+        "forceWrong": false
+      }
+    ],
+    "checklist": [
+      "Explain main idea",
+      "Give one example",
+      "Pose real-life question"
+    ]
+  },
+  {
+    "id": "660b31c1-2ec8-4ead-87c0-5e86e99943ec",
+    "title": "Custom Module",
+    "language": "English",
+    "learning_note": "Australia's world-first social media ban for children has taken effect, with throngs of teenagers waking up to find their accounts have gone dark.\n\nOthers tell BBC they have already snuck past barriers and will continue scrolling and posting freely until they are caught.\n\nThe new law means social media firms - including Meta, TikTok and YouTube - must take \"reasonable steps\" to ensure Australians aged under 16 don't hold accounts on their platforms.\n\nThe ban, eyed with excitement by global leaders and trepidation by tech companies, was justified as necessary to protect children from harmful content and algorithms - though critics have argued blanket prohibition is neither practical nor wise.",
+    "example": "",
+    "prompts": [
+      "What stands out most?",
+      "How would you apply this?"
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "card_type": "short_answer",
+        "question": "Summarize the main idea.",
+        "options": null,
+        "answer": "Australia's world-first social media ban for children has taken effect, with throngs of teenagers waking up to find thei",
+        "hint": "Stay grounded in the source text.",
+        "forceWrong": false
+      }
+    ],
+    "checklist": [
+      "Explain main idea",
+      "Give one example",
+      "Pose real-life question"
+    ]
+  }
+]
