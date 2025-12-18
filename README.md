@@ -95,7 +95,7 @@
 
 ### 1) 下载代码
 ```bash
-git clone [https://github.com/zhao4hua4/Reinforce-Learning-Pro](https://github.com/zhao4hua4/Reinforce-Learning-Pro)
+git clone https://github.com/zhao4hua4/Reinforce-Learning-Pro
 cd Reinforce\ Learning\ Pro
 ```
 
