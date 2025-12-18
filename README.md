@@ -58,7 +58,6 @@
 ## 主要入口（建议从这里开始体验）
 
 启动后端与前端后：
-- 主系统（模块化学习）：`http://127.0.0.1:5173/`
 - Demo（共同学习 + 学—测—强化）：`http://127.0.0.1:5173/demo`
 - 翻转课堂：`http://127.0.0.1:5173/demo/flipped`
 - 多语种翻转课堂：`http://127.0.0.1:5173/demo/flipped-multilingual`
@@ -96,7 +95,7 @@
 
 ### 1) 下载代码
 ```bash
-git clone <你的仓库地址>
+git clone [https://github.com/zhao4hua4/Reinforce-Learning-Pro](https://github.com/zhao4hua4/Reinforce-Learning-Pro)
 cd Reinforce\ Learning\ Pro
 ```
 
